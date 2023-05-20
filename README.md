@@ -2,6 +2,8 @@ This repository includes the original dataset utilized, a jupyter notebook of py
 
 Concepts Utilized: Statistical Testing, A/B Testing, EDA, Uni-Bi-Variate Analysis
 
+Tools: Excel, Python, Jupyter Notebooks, Google Colab
+
 Business Problem and Context:
 
 E-News Express is an online news portal that offers it’s users an easy and quick access to updates on
