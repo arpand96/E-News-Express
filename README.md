@@ -1,5 +1,5 @@
 
-Business Problem and Context:
+**Business Problem and Context:**
 
 E-News Express is an online news portal that offers it’s users an easy and quick access to updates on
 day-to-day global events with a subscribe option.
@@ -8,8 +8,8 @@ the current website’s weak outline and lack of engaging content.
 The design team has created a new landing page with a new outline and more relevant content in an
 effort to gain more subscribers by prolonging the time visitor’s spend on it’s portal.
 E-News would like to test effectiveness of the new landing page in gaining more subscribers.
-
-Solution Approach:
+**
+Solution Approach:**
 
 Multiple hypothesis tests are conducted on a randomly selected sample of 100 users. The users are
 divided into two groups: Control and Treatment. The control group is served the existing landing page,
@@ -24,6 +24,6 @@ Prior to conducting the hypothesis tests, EDA will be presented to provide a tho
 the data.
 
 
-Concepts Utilized: Statistical Testing, A/B Testing, EDA, Uni-Bi-Variate Analysis
+**Concepts Utilized:** Statistical Testing, A/B Testing, EDA, Uni-Bi-Variate Analysis
 
-Tools: Excel, Python, Jupyter Notebooks, Google Colab
+**Tools:** Excel, Python, Jupyter Notebooks, Google Colab
