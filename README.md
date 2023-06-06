@@ -1,8 +1,3 @@
-This repository includes the original dataset utilized, a jupyter notebook of python computations for analysis and a final business presentation.
-
-Concepts Utilized: Statistical Testing, A/B Testing, EDA, Uni-Bi-Variate Analysis
-
-Tools: Excel, Python, Jupyter Notebooks, Google Colab
 
 Business Problem and Context:
 
@@ -13,6 +8,8 @@ the current website’s weak outline and lack of engaging content.
 The design team has created a new landing page with a new outline and more relevant content in an
 effort to gain more subscribers by prolonging the time visitor’s spend on it’s portal.
 E-News would like to test effectiveness of the new landing page in gaining more subscribers.
+
+Solution Approach:
 
 Multiple hypothesis tests are conducted on a randomly selected sample of 100 users. The users are
 divided into two groups: Control and Treatment. The control group is served the existing landing page,
@@ -25,3 +22,8 @@ for the existing one?
 ● Is the time spent on the new page the same for different language users?
 Prior to conducting the hypothesis tests, EDA will be presented to provide a thorough understanding of
 the data.
+
+
+Concepts Utilized: Statistical Testing, A/B Testing, EDA, Uni-Bi-Variate Analysis
+
+Tools: Excel, Python, Jupyter Notebooks, Google Colab
